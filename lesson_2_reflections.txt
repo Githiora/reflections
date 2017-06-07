@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden git file is created and you need to do it so that version control can be done
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows one to specify which files contain the changes for a particular logical modification.
